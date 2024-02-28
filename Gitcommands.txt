@@ -1,0 +1,39 @@
+To get git directory in the local system...
+1. git clone link of the repository 
+
+To Send the document to the waiting area...
+1. git add file name with extension
+2. git add . --(if n no.of files presented)--
+
+Then to commit the file...
+1. git commit -m "commit message"
+
+To push the file to git...
+1. git push orgin branch name
+
+After cloning to get certain changed files....
+1. git pull .
+
+To switch btwn branches....
+1. git checkout branch name
+
+To check available branches...
+1. git branch -a
+
+To merge branches....
+1. git merge branch name 
+
+To check diff btwn branches....
+1. git diff branch name(which branch u want to check)
+
+To check status of git.....
+1. git status
+
+If we created a repo in local and want to sync with git
+1. git remote add origin link of the repo 
+
+To go back to previous directory
+1. put cd .. dots and pres enter
+
+To initalize .git file in ur local file 
+1. git init
